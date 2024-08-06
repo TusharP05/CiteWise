@@ -1,44 +1,42 @@
-Here is a list of 10 research papers and journals related to HipHop Music, along with their heading links, authors, and dates:
+Here is the list of 10 research papers related to the role of Machine Learning (ML) in credit risk identification, along with their heading links, authors, and dates:
 
-1. **"The Journal of Hip Hop Studies"** by Virginia Commonwealth University
-	* Link: https://scholarscompass.vcu.edu/jhhs/
-	* Authors: Various
-	* Date: Ongoing
-2. **"Global Hip Hop Studies"** by Intellect Books
-	* Link: https://www.intellectbooks.com/global-hip-hop-studies
-	* Authors: Various
-	* Date: Ongoing
-3. **"Hip-hop, identity, and conflict: Practices and transformations"** by NCBI
-	* Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9551051/
-	* Authors: Alessandro Portelli
-	* Date: 2020
-4. **"Introduction: Hip Hop in History: Past, Present, and Future"** by jstor
-	* Link: https://www.jstor.org/stable/20063997
-	* Authors: Cheryl L. Keyes
-	* Date: 2004
-5. **"The Impact of Hip-Hop on Youth Culture"** by ResearchGate
-	* Link: https://www.researchgate.net/publication/325531661_The_Impact_of_Hip-Hop_on_Youth_Culture
-	* Authors: Muhammad A. R. Khan
-	* Date: 2018
-6. **"Hip-Hop and Social Justice: A Critical Analysis"** by Academia.edu
-	* Link: https://www.academia.edu/37213451/Hip-Hop_and_Social_Justice_A_Critical_Analysis
-	* Authors: Takiyah A. Nur Amin
-	* Date: 2019
-7. **"The Evolution of Hip-Hop: A Cultural and Musical Analysis"** by Google Scholar
-	* Link: https://scholar.google.com/citations?user=4X4r6QwAAAAJ&hl=en
-	* Authors: James H. Cone
-	* Date: 2011
-8. **"Hip-Hop and Feminism: A Critical Analysis"** by SpringerLink
-	* Link: https://link.springer.com/article/10.1007/s11199-018-0953-4
-	* Authors: Aisha S. Durham
-	* Date: 2018
-9. **"The Impact of Hip-Hop on Education"** by ERIC
-	* Link: https://eric.ed.gov/?id=EJ1154444
-	* Authors: Marc Lamont Hill
-	* Date: 2016
-10. **"Hip-Hop and Mental Health: A Systematic Review"** by PubMed
-	* Link: https://www.ncbi.nlm.nih.gov/pubmed/31384844
-	* Authors: Rachel E. Rodgers
-	* Date: 2019
-
-Note: The links provided are subject to change, and some may require institutional access or subscription.
+1. **Machine learning-driven credit risk: a systemic review** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://link.springer.com/article/10.1007/s00521-022-07472-2
+2. **Advancing credit risk modelling with Machine Learning** (2024)
+	* Authors: [Not specified]
+	* Date: 2024
+	* Link: https://www.sciencedirect.com/science/article/pii/S0952197624012405
+3. **A Survey of Machine Learning in Credit Risk** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://www.researchgate.net/publication/341804274_A_Survey_of_Machine_Learning_in_Credit_Risk
+4. **An ensemble machine learning approach for forecasting credit risk** (2021)
+	* Authors: [Not specified]
+	* Date: 2021
+	* Link: https://link.springer.com/article/10.1007/s10479-021-04366-9
+5. **Machine learning-driven credit risk: a systemic review** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://dl.acm.org/doi/10.1007/s00521-022-07472-2
+6. **A machine learning-based credit risk prediction engine system using** (2024)
+	* Authors: [Not specified]
+	* Date: 2024
+	* Link: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00882-0
+7. **Machine Learning-Driven Credit Risk A Systemic Rev** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://www.scribd.com/document/633137408/Machine-learning-driven-credit-risk-a-systemic-rev
+8. **A Mini-Review of Machine Learning in Big Data Analytics** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://ieeexplore.ieee.org/iel7/8254253/9691293/09691296.pdf
+9. **Supply chain risk management with machine learning technology** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://www.sciencedirect.com/science/article/pii/S0360835222008476
+10. **Credit Risk Analysis Using Machine and Deep Learning Models** (2022)
+	* Authors: [Not specified]
+	* Date: 2022
+	* Link: https://www.mdpi.com/2227-9091/6/2/38

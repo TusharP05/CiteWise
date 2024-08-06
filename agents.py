@@ -70,7 +70,7 @@ linker= Agent(
   tools=[tool, paper_tool],
   llm=llm,
   allow_delegation=False,
-  max_iter=5
+  max_iter=10
   
 )
 
