@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 
 # Forming the tech-focused crew with some enhanced configuration
 crew = Crew(
-    agents=[linker],
-    tasks=[link_finder],
+    agents=[paper_writer],
+    tasks=[paper_write],
     process=Process.sequential,
 )
 
