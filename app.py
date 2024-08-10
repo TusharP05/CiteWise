@@ -8,7 +8,7 @@ from crew import gather_results  # Import the gather_results function from crew.
 
 app = Flask(__name__)
 
-@app.route('/links', methods=['POST'])
+@app.route('/paper', methods=['POST'])
 def run_research():
     data = request.json
     topic = data.get('topic')
@@ -21,7 +21,7 @@ def run_research():
         result = asyncio.run(gather_results_async(topic))
 
         # Assuming gather_results generates 'final.md'
-        markdown_file = 'papers.md'
+        markdown_file = 'review_paper.md'
 
         if not os.path.exists(markdown_file):
             return jsonify({'error': 'Markdown file not found'}), 404
@@ -42,7 +42,7 @@ async def gather_results_async(topic):
     result = await loop.run_in_executor(None, gather_results, topic)
     return result
 
-@app.route('/links', methods=['GET'])
+@app.route('/paper', methods=['GET'])
 def get_sample_research():
     sample_data = """
     # Review of Research done till now
