@@ -16,7 +16,7 @@ research_task = Task(
 # Writing task with language model configuration
 write_task = Task(
     description=(
-        "Provide students researching a new topic with important details such as a summary of key findings, relevant research papers along with their links, and useful video links. "
+        "Provide students researching a new topic with important details such as a summary of key findings, relevant research papers along with their links, and useful video links.Do not busha around much as it can overload the model. "
         "Divide the writing into the following sections with proper formatting: "
         "1) Review of Research Done Till Now (include citations with hyperlinks for quoted lines), "
         "2) Future Scope, "

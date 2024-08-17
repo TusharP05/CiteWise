@@ -76,7 +76,7 @@ linker= Agent(
 
 paper_writer = Agent(
   role='Writer',
-  goal='Write a detailed review paper on {topic}',
+  goal='Write a detailed review paper on {topic} Do not bush around irrelevant topics and be a bit quick',
   verbose=True,
   memory=True,
   backstory=(
