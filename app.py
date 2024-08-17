@@ -4,10 +4,11 @@ import os
 import asyncio
 import logging
 from crew import gather_results  # Import the gather_results function from crew.py
+from flask_cors import CORS
 
 
 app = Flask(__name__)
-
+CORS(app, resources={r"/*": {"origins": "http://localhost:5173"}})
 @app.route('/paper', methods=['POST'])
 def run_research():
     data = request.json
