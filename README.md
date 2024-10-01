@@ -1,6 +1,6 @@
-# Overview of Multi-Agent Frameworks in PaperWriter
+# CiteWise- Your AI Research Helper
 
-The **PaperWriter** project utilizes **multi-agent framework** **Crew-AI** to enhance the efficiency and effectiveness of generating academic papers. By integrating various **Large Language Models (LLMs)**, both **open-source** and **proprietary**, the system leverages the strengths of multiple agents working collaboratively. **Crew AI** serves as the underlying **multi-agentic framework** for this system. This document outlines how these frameworks operate, focusing on their architecture, functionalities, and the interplay between different LLMs. 
+The **CiteWise** project utilizes **multi-agent framework** **Crew-AI** to enhance the efficiency and effectiveness of generating academic papers. By integrating various **Large Language Models (LLMs)**, both **open-source** and **proprietary**, the system leverages the strengths of multiple agents working collaboratively. **Crew AI** serves as the underlying **multi-agentic framework** for this system. This document outlines how these frameworks operate, focusing on their architecture, functionalities, and the interplay between different LLMs. 
 
 ## Multi-Agent Architecture
 
